@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie-app</string>
+    <string name="app_title">Online movie database!</string>
+    <string name="login_remember">Remember Me</string>
+    <string name="login_username">Username...</string>
+    <string name="login_password">Password...</string>
+    <string name="login_register">Register</string>
+    <string name="login_login">Login</string>
+</resources>
